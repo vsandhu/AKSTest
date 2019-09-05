@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AKSTest", "AKSTest\AKSTest.csproj", "{FFC4C96B-404B-4BAB-BA53-AEA403295D78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AKSTest2", "AKSTest2\AKSTest2.csproj", "{1461AD00-5D1D-45FB-A650-F57302B1ACDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFC4C96B-404B-4BAB-BA53-AEA403295D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC4C96B-404B-4BAB-BA53-AEA403295D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC4C96B-404B-4BAB-BA53-AEA403295D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC4C96B-404B-4BAB-BA53-AEA403295D78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1461AD00-5D1D-45FB-A650-F57302B1ACDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1461AD00-5D1D-45FB-A650-F57302B1ACDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1461AD00-5D1D-45FB-A650-F57302B1ACDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1461AD00-5D1D-45FB-A650-F57302B1ACDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8778FFD8-CF56-4240-95FA-523EDCA0427B}
+	EndGlobalSection
+EndGlobal
